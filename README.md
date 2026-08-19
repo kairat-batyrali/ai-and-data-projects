@@ -1,6 +1,5 @@
-# Data Analysis Projects
-
-A collection of data analysis and computational modelling projects across research, economics, and physics. Work spans professional research roles and academic study, using Python as the primary tool throughout.
+# AI and Data Projects
+A collection of data analysis, computational modelling, and AI-assisted workflow projects across research, economics, physics, and AI evaluation. Work spans professional research roles and academic study, using Python and Claude as primary tools throughout.
 
 ## Projects
 
@@ -16,13 +15,20 @@ Data analysis and computational modelling scripts from undergraduate physics lab
 
 <img src="physics-lab-analysis/charge_to_mass_thumbnail.png" alt="Charge-to-mass ratio of the electron" width="600">
 
+### [Citation Verification Skill — GPTZero](./citation-verification-skill/)
+A reusable Claude Skill built during a Research Data Annotator role at GPTZero, designed to verify academic and LLM-generated citations against primary sources in support of hallucination detection and AI evaluation pipelines. Applies a structured taxonomy to classify citation accuracy and flag ambiguous or low-confidence cases for review, turning a manual verification workflow into a repeatable, documented process.
+
+**Tools:** Claude (Anthropic), prompt engineering, Markdown-based skill authoring, Natural Language Processing (NLP), Large Language Models (LLM)
+
 ## Skills Demonstrated
+
 - Data cleaning, transformation, and validation
 - Statistical modelling and curve fitting with uncertainty analysis
 - Time series decomposition and forecasting
 - Reproducible figures with error analysis
 - Automated pipelines and reproducible workflows
 - Publication-style figures and LaTeX reports
+- Prompt engineering and reusable AI-assisted workflow design
 
 ---
 © 2026 Kairat Batyrali. Code provided for portfolio review.
